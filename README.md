@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LawrenceMallnsn
-- 👀 I’m studying for a BSc. in Combined STEM
+- 👀 I’m studying MSc. Ethical Hacking
 - 🌱 I’m currently learning PHP
 - 📫 You can reach me at lawrence@fromthe3rdstoryproductions.co.uk
 
